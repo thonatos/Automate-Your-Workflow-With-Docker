@@ -4,6 +4,17 @@
 
 * 项目背景
 * 参考链接
+* 开发
+  * 开发也要懂点 `Docker`
+* 构建
+  * Jenkins
+  * CircleCI
+  * TravisCI
+  * Drone
+  * Docker Hub/Aliyun Registry
+* 部署
+  * Jenkins Plugin
+  * Aliyun Container Service
 
 ## 贡献 {#贡献}
 
