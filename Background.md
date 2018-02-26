@@ -35,12 +35,6 @@
 通过上述三个阶段的串联，我们实现了符合我们业务需求的 workflow，即 **开发人员推送代码到项目自动上线的自动化流程**。
 
 
-
-
-
 **文章/图片引用：**
 
 * [http://www.infoq.com/cn/articles/CICDInCaaS-CreateCDSystem-part03](http://www.infoq.com/cn/articles/CICDInCaaS-CreateCDSystem-part03)_ （莫源）_
-
-
-
