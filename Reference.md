@@ -5,19 +5,14 @@
 **基础文档**
 
 * [https://www.docker.com/what-docker](https://www.docker.com/what-docker)
-
 * [https://docs.docker.com/engine/reference/builder/](https://docs.docker.com/engine/reference/builder/)
-
 * [https://docs.docker.com/compose/overview/](#)
-
 * [http://docs.kubernetes.org.cn/](http://docs.kubernetes.org.cn/)
 
 **项目/专栏**
 
 * [https://github.com/AliyunContainerService/DevOps](https://github.com/AliyunContainerService/DevOps)
-
 * [https://github.com/ImplementsIO/docker-labs](https://github.com/ImplementsIO/docker-labs)
-
 * [https://zhuanlan.zhihu.com/a-log-cabin](https://zhuanlan.zhihu.com/a-log-cabin)
 
 **开源项目**
