@@ -36,8 +36,6 @@
 
 
 
-
-
 **文章/图片引用：**
 
 * [http://www.infoq.com/cn/articles/CICDInCaaS-CreateCDSystem-part03](http://www.infoq.com/cn/articles/CICDInCaaS-CreateCDSystem-part03)_ （莫源）_
