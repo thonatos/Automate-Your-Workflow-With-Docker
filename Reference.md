@@ -9,24 +9,19 @@
 * [https://docs.docker.com/compose/overview/](#)
 * [http://docs.kubernetes.org.cn/](http://docs.kubernetes.org.cn/)
 
-**项目/专栏**
+**技术专栏**
 
 * [https://github.com/AliyunContainerService/DevOps](https://github.com/AliyunContainerService/DevOps)
 * [https://github.com/ImplementsIO/docker-labs](https://github.com/ImplementsIO/docker-labs)
 * [https://zhuanlan.zhihu.com/a-log-cabin](https://zhuanlan.zhihu.com/a-log-cabin)
 
-**开源项目**
+**开源项目/工具**
 
 * [https://helm.sh/](#)
-
 * [https://drone.io/](#)
-
 * [https://jenkins.io/](https://jenkins.io/)
-
 * [https://circleci.com/](https://circleci.com/)
-
 * [https://www.travis-ci.org](#)
-
 * [https://github.com/thonatos/maidops](https://github.com/thonatos/maidops)
 
 
