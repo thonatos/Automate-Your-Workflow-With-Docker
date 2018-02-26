@@ -17,7 +17,16 @@
 
 **开源项目**
 
-* [https://helm.sh/](https://helm.sh/)
+* [https://helm.sh/](#)
+
+* [https://drone.io/](#)
+
+* [https://jenkins.io/](https://jenkins.io/)
+
+* [https://circleci.com/](https://circleci.com/)
+
+* [https://www.travis-ci.org](#)
+
 * [https://github.com/thonatos/maidops](https://github.com/thonatos/maidops)
 
 
