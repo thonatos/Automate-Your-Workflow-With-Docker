@@ -19,7 +19,7 @@
   * TravisCI
   * Drone
   * Docker Hub/Aliyun Registry
-* 项目部署
+* [项目部署](Deployment.md)
   * Jenkins Plugin
   * Aliyun Container Service
 
