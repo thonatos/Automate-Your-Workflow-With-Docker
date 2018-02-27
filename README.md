@@ -12,16 +12,8 @@
 * [项目背景](Background.md)
 * [参考链接](Reference.md)
 * 项目开发
-  * 开发也要懂点 Docker
 * [镜像构建](Build.md)
-  * Jenkins
-  * CircleCI
-  * TravisCI
-  * Drone
-  * Docker Hub/Aliyun Registry
 * [项目部署](Deployment.md)
-  * Jenkins Plugin
-  * Aliyun Container Service
 
 ## 贡献
 
