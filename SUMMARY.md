@@ -5,4 +5,5 @@
 * [参考链接](Reference.md)
 * [镜像构建](Build.md)
 * [LICENSE](LICENSE)
+* [项目部署](xiang-mu-bu-shu.md)
 
