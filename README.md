@@ -1,8 +1,9 @@
-# Automate-Your-Workflow-With-Docker 
+# Automate-Your-Workflow-With-Docker
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/thonatos/Automate-Your-Workflow-With-Docker/blob/master/LICENSE)
 
-在公司架构体系的演进中，Docker 或者说容器技术扮演了越来越重要的角色，在它的帮助下，我们简化了工作流，帮助团队提升了工作与协作效率，故而我们希望在技术沉淀的同时能够反哺社区，帮助有意将容器技术纳入工作流的同学们。
+容器技术的迅速发展将运维从繁琐的配置中解放出来，实现一次构建，处处运行。  
+本系列教程从实战出发，将项目流程简化为开发、构建、部署三个阶段，以 Docker 为基础打造自动化的工作流。
 
 * [Github](https://github.com/thonatos/Automate-Your-Workflow-With-Docker)
 * [Gitbook](https://docker-workflow.implements.io/)
@@ -14,6 +15,10 @@
 * [项目开发](Development.md)
 * [镜像构建](Build.md)
 * [项目部署](Deployment.md)
+
+## 作者
+
+* 苏依，Insta360 前端工程师 / Egg.js Member / 阿里云 MVP
 
 ## 贡献
 
