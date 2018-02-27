@@ -23,3 +23,11 @@ Java 项目通常需要打包成 War 包后（模块包托管于 Maven 仓库）
 
 * [基于Jenkins & Docker的CI/CD优化](https://zhuanlan.zhihu.com/p/27147870)
 * [使用阿里云容器服务Jenkins 2.0实现持续集成之the tag you want篇](https://yq.aliyun.com/articles/72703)
+
+## 其他链接
+
+* [Authenticate proxy with nginx](https://docs.docker.com/registry/recipes/nginx/#setting-things-up)
+* [Docker Private Registry Notifications](https://zhuanlan.zhihu.com/p/30080610)
+* [十分钟配置Docker镜像自动构建](https://zhuanlan.zhihu.com/p/24896056)
+* [基于OSS搭建私有（跨区域）Docker镜像仓库](https://zhuanlan.zhihu.com/p/26953037)
+* [基于OSS搭建跨区域部署的分布式Docker镜像仓库](https://yq.aliyun.com/articles/7585?spm=5176.100240.searchblog.29.KgPk6U)
