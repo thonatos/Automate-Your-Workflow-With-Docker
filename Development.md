@@ -21,7 +21,7 @@
 
 此处我们以国内关注量比较高的 CNode 社区项目 egg-cnode 为例，简单介绍开发环境中的 docker 使用。
 
-**项目地址**：https://github.com/cnodejs/egg-cnode
+**项目地址**：[https://github.com/cnodejs/egg-cnode](https://github.com/cnodejs/egg-cnode)
 
 **目录结构**：
 
@@ -46,7 +46,6 @@
 └── yarn.lock
 
 7 directories, 8 files
-
 ```
 
 **Docker 配置**：
@@ -99,8 +98,7 @@ volumes:
 
 networks:
   docker_cnode:
-    driver: bridge    
-
+    driver: bridge
 ```
 
 此处我们引入了一个init.d目录，作用是初始化 \`mongodb\` 数据库并添加认证：
@@ -126,7 +124,6 @@ db.createUser({
 db.egg_cnode.insert({
   egg_cnode: 'egg-cnode'
 })
-
 ```
 
 > Mysql 也可以使用同样的方式初始化数据库，该脚本只执行一次。
@@ -142,7 +139,6 @@ docker-compose -f docker-compose.dev.yml down -v
 
 # 停止（同时移除持久化数据）
 docker-compose -f docker-compose.dev.yml down -v
-
 ```
 
 接着就可以按照日常开发一样进行了，不使用时候停止（或者同时清除数据）。
@@ -217,8 +213,7 @@ volumes:
 
 networks:
   docker_cnode:
-    driver: bridge    
-
+    driver: bridge
 ```
 
 细心的同学也许会发现，这里有点变化：
@@ -226,7 +221,21 @@ networks:
 * redis 端口不再暴露，在生产环境端口异常宝贵，无特殊需求的端口，完全不需要指定
 * mongodb 通常会使用外部数据库，这里是为了测试，暴露端口方便同学们连接
 
+启动和上面一样的方法：
 
+```
+# 启动
+docker-compose -f docker-compose.yml up -d
 
+# 停止
+docker-compose -f docker-compose.yml down -v
 
+# 停止（同时移除持久化数据）
+docker-compose -f docker-compose.yml down -v
+```
+
+> docker-compose 可以不使用 -f；
+> 正式环境 cnode 镜像会自动构建，不用本地构建；
+
+这样我们即可获得一个沙箱环境，数据隔离，环境隔离，同时也可以通过 dockerfile 指定 node 版本。
 
